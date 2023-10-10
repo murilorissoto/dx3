@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "ITC Machine Medium";
+    src: url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.eot");
+    src: url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.svg#ITC Machine Medium")format("svg");
+}
+
+.p{
+    color: rgb(241, 3, 138);
+    font-size: larger;
+    font-family: "ITC Machine Medium";
+    src: url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.eot");
+    src: url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/69bed3a8aa634e734859ad564c6fd73c.svg#ITC Machine Medium")format("svg");
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(98, 30, 146);
+}
+
+.w{
+    border: ridge 5px;
+    text-decoration:none;
+    background-color: #3d3737; 
+    color: rgb(222, 52, 199);
+    padding: 15px 159px;
+    text-align: center;
+    font-family:fantasy;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  }
+  
+  .w:hover{
+    background-color: rgb(120, 5, 136);
+    color: azure;
+  }
